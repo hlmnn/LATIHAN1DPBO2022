@@ -1,3 +1,3 @@
 # LATIHAN1DPBO2022
 
-// uwu
+Praktikum Desain dan Pemrograman Berorientasi Objek

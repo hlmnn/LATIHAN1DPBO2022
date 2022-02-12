@@ -54,6 +54,9 @@ class FootballTeamList
     {
         return $this->player;
     }
+    
+    public function __destruct(){
+    }
 }
 
 ?>

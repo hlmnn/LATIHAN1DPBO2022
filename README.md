@@ -15,4 +15,4 @@ Isi dari class FootballTeamList sebagai berikut :
 - Country : untuk asal negara tim.
 - Year : untuk tahun didirikan tim.
 - Player : untuk nama dari pemain di tim tersebut.
-- Terdapat methode get dan set, constructor, serta destructor.
+- Terdapat method get dan set, constructor, serta destructor.
